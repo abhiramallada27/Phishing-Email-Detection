@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard AI",
+  "description": "An intelligent phishing email detection web application that uses Natural Language Processing and AI to scan emails and detect threats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
